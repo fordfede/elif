@@ -1,0 +1,18 @@
+/consultora-datos
+│
+├── index.html                # Archivo principal de la página (HTML)
+├── /assets                   # Carpeta para imágenes y archivos estáticos
+│   ├── logo.png              # Logo de la consultora
+│   ├── about-us.jpg          # Imagen para la sección "Quienes somos"
+│   ├── services.jpg          # Imagen para la sección "Servicios"
+│   ├── partners.jpg          # Imagen para la sección "Quienes trabajan con nosotros"
+│   └── (más imágenes...)    # Otras imágenes que puedas agregar
+│
+├── /css                      # Carpeta para archivos de estilo (CSS)
+│   └── styles.css            # Archivo de estilos principal
+│
+├── /js                       # Carpeta para archivos de scripts (JavaScript)
+│   └── script.js             # Archivo de funcionalidades y animaciones (JS)
+│
+└── /fonts                    # Carpeta para las fuentes si decides agregar alguna personalizada
+    └── (fuentes)             # Fuentes personalizadas, si se necesitan
